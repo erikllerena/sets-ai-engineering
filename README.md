@@ -1,6 +1,6 @@
 # SETS — AI Engineering
 
-**Programa:** v1.0.1 · **Framework:** SETS v1.4.1 · **Namespace:** `AIE00–AIE14`
+**Programa:** v1.0.2 · **Framework:** SETS v1.4.1 · **Namespace:** `AIE00–AIE14`
 
 Desarrollar criterio para diseñar, integrar, evaluar, desplegar, observar y mantener sistemas basados en IA durante su ciclo de vida, considerando calidad, seguridad, rendimiento, costes y cambios en datos o modelos.
 
@@ -52,4 +52,4 @@ Se centra en el ciclo de vida y los problemas de ingeniería específicos de mod
 
 ## Versionado
 
-Versión actual del programa: `v1.0.1` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
+Versión actual del programa: `v1.0.2` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
