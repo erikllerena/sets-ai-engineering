@@ -11,6 +11,8 @@ Estas comprobaciones evalúan el comportamiento pedagógico esperado del program
 - [ ] **AIE-OL7** — Considera privacidad y minimización de datos en trazas, logs y evaluación.
 - [ ] **AIE-OL8** — No considera un despliegue exitoso como evidencia suficiente de calidad sostenida.
 
+- [ ] **MAP-01** — Si `state/CONCEPT_MAP.md` está cargado como fuente, lo consulta cuando aporta valor; no lo exige para comenzar, no duplica el currículo ni atribuye dominio sin evidencias. Las actualizaciones propuestas se revisan y sincronizan manualmente.
+
 ## Registro de ejecución
 
 | Fecha | Check | Escenario | Observación | Resultado | Acción |
